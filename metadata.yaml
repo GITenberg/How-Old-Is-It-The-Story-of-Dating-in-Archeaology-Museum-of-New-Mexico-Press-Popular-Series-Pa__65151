@@ -1,5 +1,5 @@
 _repo: How-Old-Is-It-The-Story-of-Dating-in-Archeaology-Museum-of-New-Mexico-Press-Popular-Series-Pa__65151
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Spencer, Mary
@@ -8,12 +8,17 @@ contributor:
   - agent_name: Hughes, Phyllis
     gutenberg_agent_id: '53206'
     url: http://www.gutenberg.org/2009/agents/53206
+covers:
+- cover_type: archival
+  image_path: 65151-h/images/cover.jpg
 creator:
   author:
     agent_name: Schoenwetter, James
     gutenberg_agent_id: '53204'
     url: http://www.gutenberg.org/2009/agents/53204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65151#How-Old-Is-It-The-Story-of-Dating-in-Archeaology-Museum-of-New-Mexico-Press-Popular-Series-Pa_
 gutenberg_issued: '2021-04-24'
 gutenberg_type: Text
 identifiers:
